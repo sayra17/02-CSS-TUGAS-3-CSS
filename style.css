@@ -1,0 +1,27 @@
+.pertama {
+  color: black;
+  background-color: orange;
+  border-width: 1px;
+  border-style: solid;
+}
+.kedua {
+  color: white;
+  font-size: 12px;
+  background-color: blue;
+  border-width: 1px;
+  border-style: solid;
+}
+.ketiga {
+  font-family: monospace;
+  font-size: 20px;
+  font-weight: 100;
+  border-width: 1px;
+  border-style: solid;
+}
+.keempat {
+  background-color: slategrey;
+  font-weight: 900;
+  font-family: Arial, Helvetica, sans-serif;
+  border-width: 1px;
+  border-style: solid;
+}
